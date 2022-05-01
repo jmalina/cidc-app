@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div>CIDR Calculator</div>
+        <div>CIDR Calculator<div>
       </header>
       <IPv4Addr />
       <footer>
         <hr />
         If you find this tool useful, you might enjoy reading my blog:{" "}
-        <a href="https://rderik.com">rderik.com</a>
+        <a href="https://rderik.com">rderik.com
       </footer>
     </div>
   );
