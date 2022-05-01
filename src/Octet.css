@@ -23,7 +23,7 @@
 }
 
 .invalid input[type="text"] {
-  background-color: #fce4e4;
+  background-color: #fce888;
   border: 1px solid #cc0033;
   outline: none;
 }
