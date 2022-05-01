@@ -7,13 +7,26 @@ function App() {
       <header className="App-header">
         <div>CIDR Calculator</div>
       </header>
-      <IPv4Addr />
-      <footer>
+      
+    <IPv4Addr />
+     
+    
+    
+    
+    <footer>
+    
         <hr />
+    
         If you find this tool useful, you might enjoy reading my blog:{" "}
         <a href="https://rderik.com">rderik.com</a>
-      </footer>
-    </div>
+    
+                                                         
+
+                        
+                  </footer>
+      
+
+</div>
   );
 }
 
